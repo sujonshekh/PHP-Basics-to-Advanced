@@ -6,10 +6,10 @@ $age= 31;
 // camelCase also you can't use any space | numeric signs in variables
 $terGet="whole PHP";
 
-echo "Hey Jhon welcome to php, $name, $age","\n";
+echo "Hey Jhon welcome to php, $name, $age \n";
 echo "\n";
 
-echo "Nice to See you Coding World after so many years, $name, $age","\n";
+echo "Nice to See you Coding World after so many years, $name, $age \n";
 echo "$terGet","\n";
 
 // Constant variable always declared with Capital word
